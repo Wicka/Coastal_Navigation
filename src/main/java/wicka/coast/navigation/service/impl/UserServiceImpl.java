@@ -1,5 +1,6 @@
 package wicka.coast.navigation.service.impl;
 
+
 import java.util.List;
 
 import wicka.coast.navigation.dto.User;
@@ -54,5 +55,10 @@ public class UserServiceImpl implements IUserService {
 		// TODO Auto-generated method stub
 
 	}
+
+import wicka.coast.navigation.service.IUserService;
+
+public class UserServiceImpl implements IUserService{
+
 
 }
