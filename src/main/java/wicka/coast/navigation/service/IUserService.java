@@ -1,8 +1,6 @@
 package wicka.coast.navigation.service;
 
-<<<<<<< HEAD
-public interface IUserService {
-=======
+
 import java.util.List;
 
 import wicka.coast.navigation.dto.User;
@@ -36,6 +34,8 @@ public interface IUserService {
 
 	public void deleteUser(Long id);
 	
->>>>>>> B-01
+
+public interface IUserService {
+
 
 }
