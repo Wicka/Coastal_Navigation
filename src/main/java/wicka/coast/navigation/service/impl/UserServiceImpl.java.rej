@@ -1,7 +1,4 @@
-diff a/src/main/java/wicka/coast/navigation/service/impl/UserServiceImpl.java b/src/main/java/wicka/coast/navigation/service/impl/UserServiceImpl.java	(rejected hunks)
-@@ -6,2 +6,58 @@
- public class UserServiceImpl implements IUserService{
-+=======
+
 +import java.util.List;
 +
 +import wicka.coast.navigation.dto.User;
@@ -56,5 +53,4 @@ diff a/src/main/java/wicka/coast/navigation/service/impl/UserServiceImpl.java b/
 +		// TODO Auto-generated method stub
 +
 +	}
-+>>>>>>> B-01
- 
+}
