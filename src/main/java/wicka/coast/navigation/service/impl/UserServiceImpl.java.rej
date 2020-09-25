@@ -1,0 +1,8 @@
+diff a/src/main/java/wicka/coast/navigation/service/impl/UserServiceImpl.java b/src/main/java/wicka/coast/navigation/service/impl/UserServiceImpl.java	(rejected hunks)
+@@ -1,5 +1,6 @@
+ package wicka.coast.navigation.service.impl;
+ 
++<<<<<<< HEAD
+ import wicka.coast.navigation.service.IUserService;
+ 
+ public class UserServiceImpl implements IUserService{
