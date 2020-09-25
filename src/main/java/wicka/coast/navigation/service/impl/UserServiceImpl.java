@@ -56,9 +56,5 @@ public class UserServiceImpl implements IUserService {
 
 	}
 
-import wicka.coast.navigation.service.IUserService;
-
-public class UserServiceImpl implements IUserService{
-
 
 }
