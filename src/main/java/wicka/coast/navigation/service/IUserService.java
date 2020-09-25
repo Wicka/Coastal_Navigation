@@ -1,12 +1,6 @@
 package wicka.coast.navigation.service;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-public interface IUserService {
-=======
-=======
 
->>>>>>> 76587dc003815de0926b8b162fe286e31e8dbcf2
 import java.util.List;
 
 import wicka.coast.navigation.dto.User;
